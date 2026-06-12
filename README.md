@@ -7,6 +7,7 @@ O sistema foi pensado para simular um fluxo proximo de uma operacao real: cadast
 # Desenvolvedores
 
 Carlos Eduardo Gonçalves do Espírito Santo
+
 Felipe Ferreira Pacheco
 
 ## Objetivo do projeto
