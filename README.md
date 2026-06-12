@@ -4,6 +4,11 @@ Aplicacao fullstack para gerenciamento de reservas de mesas em restaurante, dese
 
 O sistema foi pensado para simular um fluxo proximo de uma operacao real: cadastrar reservas, visualizar a ocupacao do salao, impedir conflitos de horario, respeitar capacidade das mesas e manter os status atualizados conforme o tempo.
 
+# Desenvolvedores
+
+Carlos Eduardo Gonçalves do Espírito Santo
+Felipe Ferreira Pacheco
+
 ## Objetivo do projeto
 
 O objetivo principal e oferecer uma experiencia completa de reservas com:
